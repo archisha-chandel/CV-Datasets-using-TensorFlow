@@ -11,6 +11,8 @@ data/*.txt
 data/*.h5
 *.h5
 Natural Language Processing/*.tsv
+Browser-Based Models (TensorFlow.js)/*.json
+Browser-Based Models (TensorFlow.js)/*.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
