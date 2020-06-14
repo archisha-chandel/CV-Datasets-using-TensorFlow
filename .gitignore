@@ -13,6 +13,11 @@ data/*.h5
 Natural Language Processing/*.tsv
 Browser-Based Models (TensorFlow.js)/*.json
 Browser-Based Models (TensorFlow.js)/*.bin
+*.tflite
+*.txt
+*.zip
+Device-Based Models (TensorFlow Lite)/Training Models and Converting to TFLite/test_images/
+Device-Based Models (TensorFlow Lite)/Training Models and Converting to TFLite/saved_model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
